@@ -5,7 +5,7 @@ int ucln(long long a, long long b) {
 		if(a > b)
 			a -= b;
 		else b -= a;
-		}
+	}
 	return a;
 }
 
